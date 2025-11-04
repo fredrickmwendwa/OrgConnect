@@ -32,5 +32,5 @@ It includes full **CRUD operations**, **search functionality**, **CSV/XLS export
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/OrgConnect.git
+git clone https://github.com/fredrickmwendwa/OrgConnect.git
 cd OrgConnect
